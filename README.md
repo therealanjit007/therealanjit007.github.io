@@ -2,10 +2,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><link href="/wp-content/themes/ost_v2/style.css" rel="stylesheet" type="text/css" media="screen">
 
-<title>Blue clean web template | The BEST Free Website Templates</title>
+<title>Kildall technologies</title>
 <meta name="author" content="studio7designs.com">
-<meta name="description" content="Free Website Templates. Free CSS Web Template Downloads.">
-<meta name="keywords" content="Free web templates, free website designs, free website templates, open source templates, eco green, organic, eco, green, downloads, popular, best, free, web, website">
+<meta name="description" content="Test Wbebsite.">
+<meta name="keywords" content="Anjit, Kildall, Kildall technology, Blue">
 <meta name="robots" content="index, follow, noarchive">
 <meta name="googlebot" content="noarchive">
 <link rel="shortcut icon" href="/wp-content/themes/ost_v2/images/favicon.ico">
